@@ -106,7 +106,7 @@ open_graph:
   #fb_app_id:
 
 # Assets
-statics: //cdn.jsdelivr.net/gh/expliyh/expliyh-github-io@latest/
+statics: //cdn.jsdelivr.net/gh/expliyh/expliyh-github-io@master/
 css: css
 js: js
 images: images
