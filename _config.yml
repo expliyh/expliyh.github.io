@@ -3,19 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 干脆就叫 HelloWorld 吧
 subtitle:
 description:
 keywords:
-author: John Doe
-language:
-timezone:
+author: Expliyh
+language: zh-CN
+timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://www.expli.top
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :category/:title/
 permalink_defaults:
 
 # Directory
@@ -67,13 +67,13 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 10
+per_page: 18
 pagination_dir: page
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: shoka
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
