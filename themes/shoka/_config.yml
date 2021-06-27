@@ -244,7 +244,7 @@ footer:
 
 post:
   # Dependencies: https://github.com/theme-next/hexo-symbols-count-time
-  count: false
+  count: true
 
 # Reward (Donate)
 reward:
