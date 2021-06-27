@@ -130,7 +130,7 @@ auto_scroll: true
 # Whether to show the loading cat
 loader:
   start: true # When entering the page
-  switch: true # When switching to another page
+  switch: false # When switching to another page
 
 # click with Firework
 fireworks:
@@ -188,7 +188,7 @@ iconfont: "1832207_c8i9n1ulxlt"
 
 menu:
   home: / || home
-  # about: /about/ || user
+  about: /about/ || user
   # posts:
   #   default: / || feather
   #   archives: /archives/ || list-alt
